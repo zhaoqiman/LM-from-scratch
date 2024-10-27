@@ -2,7 +2,7 @@
 
 import json
 
-jsonPath = r"ChatLM\nanoGPT\data\jingjiu\tianji-etiquette-chinese-v0.1.json"
+jsonPath = r"data\jingjiu\tianji-etiquette-chinese-v0.1.json"
 
 # Load the JSON data from a file
 with open(jsonPath, 'r', encoding='utf-8') as file:
